@@ -16,8 +16,8 @@
     /* padding-top: 134px; */
 }
 .about-me-image-container{
-/* max-width: 50%; */
-flex-grow: 1;
+max-width: 50%;
+
 height: 700px;
 contain: content;
 background-image:radial-gradient(#F4BFBF,#cd9296);
@@ -27,8 +27,8 @@ background-image:radial-gradient(#F4BFBF,#cd9296);
    /* width: 100%; */
 }
 .about-me-text-container{
-    /* width: 50%; */
-    flex-grow: 1;
+    width: 50%;
+/*     flex-grow: 1; */
 height:700px;
     display: flex;
     flex-direction: column;
